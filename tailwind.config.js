@@ -14,7 +14,7 @@ module.exports = {
         'subtitle': '1.7rem'
       },
       colors: {
-        'main-gray': '#0F2F5',
+        'main-gray': '#F0F2F5',
         'main-blue': '#1877F2',
         'main-blue-hover': '#166FE5',
         'main-green': '#42B72A',
