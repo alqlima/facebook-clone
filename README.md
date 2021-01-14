@@ -17,7 +17,7 @@
  ## Status do projeto
  
  <h4 align="center">
-   🚧 Facebook clone 🚀 Em construção... 🚧
+   🚧 Facebook clone 🚀 Concluido!!! 🚧
  </h4>
 
 ## Author
